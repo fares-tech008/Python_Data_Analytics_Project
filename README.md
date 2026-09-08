@@ -82,7 +82,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the US Job Postings](https://github.com/fares-tech008/Python_Data_Analytics_Project/blob/main/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US_with_Coloring_by_Technology.png?raw=true
+![Likelihood of Skills Requested in the US Job Postings](https://github.com/fares-tech008/Python_Data_Analytics_Project/blob/main/Images/Likelihood_of_Skills_Requested_in_US_Job_Postings.png?raw=true
 )
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
