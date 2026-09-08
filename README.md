@@ -143,7 +143,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the US](images/Salary_Distributions_of_Data_Jobs_in_the_US.png)  
+![Salary Distributions of Data Jobs in the US](https://github.com/fares-tech008/Python_Data_Analytics_Project/blob/main/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US.png?raw=true)  
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
